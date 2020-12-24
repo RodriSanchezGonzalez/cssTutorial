@@ -1,0 +1,35 @@
+/* Selectors */
+
+/* 0-Universal.  This affects all elements into html*/
+* {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* 1-Label.  This affects all elements of certain label*/
+body {
+	background: rgb(204, 204, 204);
+}
+
+a {
+	color: green;
+	text-decoration: none;
+	font-size: 18px;
+}
+
+footer a {
+	color: red;
+	text-decoration: none;
+	font-size: 18px;
+}
+
+h1 {
+	color: rgb(33, 33, 180);
+	font-size: 50px;
+	text-shadow: 0px 0px 0.5px black;
+}
+
+/* 2-Identifier.  This affects all elements into html*/
+
+/* 3-Class.  This affects all elements into html*/
+
+/* 4-Atribute.  This affects all elements into html*/
